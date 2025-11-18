@@ -1,9 +1,6 @@
 <div align="center">
   <h1>🧠 Head-Tracking Window Minimizer</h1>
   <p>A smart computer vision tool that minimizes your active window when you tilt your head down.</p>
-
- <img width="1280" height="640" alt="Discord bots (1)" src="https://github.com/user-attachments/assets/45b9410c-032a-444d-a42f-18fdb0b7d5a0" />
-
   <br><br>
 
   ![Python](https://img.shields.io/badge/Python-3.10+-blue)
@@ -21,6 +18,10 @@ Perfect for:
 - Quick minimizing during work  
 - Privacy-conscious users  
 - Productivity setups
+
+
+## Demo
+ <img width="1280" height="640" alt="Discord bots (1)" src="https://github.com/user-attachments/assets/45b9410c-032a-444d-a42f-18fdb0b7d5a0" />
 
 
 ## ✨ Features
