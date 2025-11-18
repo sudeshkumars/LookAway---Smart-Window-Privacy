@@ -2,7 +2,7 @@
   <h1>🧠 Head-Tracking Window Minimizer</h1>
   <p>A smart computer vision tool that minimizes your active window when you tilt your head down.</p>
 
-  <img src="https://raw.githubusercontent.com/yourusername/yourrepo/main/assets/demo.gif" width="650">
+ <img width="1280" height="640" alt="Discord bots (1)" src="https://github.com/user-attachments/assets/45b9410c-032a-444d-a42f-18fdb0b7d5a0" />
 
   <br><br>
 
